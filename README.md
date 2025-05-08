@@ -5,7 +5,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/joaohgoncalves/spotify-clone)](https://github.com/joaohgoncalves/spotify-clone/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/joaohgoncalves/spotify-clone)](https://github.com/joaohgoncalves/spotify-clone)
 
-Este projeto é um clone do Spotify, desenvolvido como prática de front-end e back-end integrados. A proposta é criar uma plataforma de reprodução de músicas com uma interface moderna, autenticação de usuários, gerenciamento de playlists e streaming de áudio.
+Este projeto é um clone do Spotify, desenvolvido como prática de front-end e back-end integrados.
 
 ---
 
