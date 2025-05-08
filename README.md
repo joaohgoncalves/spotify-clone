@@ -3,7 +3,6 @@
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)](https://github.com/joaohgoncalves/spotify-clone)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/joaohgoncalves/spotify-clone)](https://github.com/joaohgoncalves/spotify-clone/commits/main)
-[![GitHub repo size](https://img.shields.io/github/repo-size/joaohgoncalves/spotify-clone)](https://github.com/joaohgoncalves/spotify-clone)
 
 Este projeto é um clone do Spotify, desenvolvido como prática de front-end e back-end integrados.
 
